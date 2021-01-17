@@ -1,0 +1,188 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "GneissBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gneiss_block"
+    },
+    {
+      "name": "OpalOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opal_ore"
+    },
+    {
+      "name": "OpalDrop",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opal_drop"
+    },
+    {
+      "name": "SilverOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore"
+    },
+    {
+      "name": "SulfurOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sulfur_ore"
+    },
+    {
+      "name": "CobaltOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_ore"
+    },
+    {
+      "name": "AmazoniteOre",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amazonite_ore"
+    },
+    {
+      "name": "MercuryOre",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mercury_ore"
+    },
+    {
+      "name": "IchnusaiteOre",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ichnusaite_ore"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "CopperOre",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore"
+    },
+    {
+      "name": "AlleghanyiteOre",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alleghanyite_ore"
+    },
+    {
+      "name": "StonyGneissBlock",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stony_gneiss_block"
+    },
+    {
+      "name": "ZapphireOre",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zapphire_ore"
+    },
+    {
+      "name": "GarnetOre",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garnet_ore"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.rockupdate.opal_drop": "Opal",
+      "block.rockupdate.mercury_ore": "Mercury Ore",
+      "block.rockupdate.garnet_ore": "Garnet Ore",
+      "block.rockupdate.amazonite_ore": "Amazonite Ore",
+      "block.rockupdate.silver_ore": "Silver Ore",
+      "item.rockupdate.ruby": "Ruby",
+      "block.rockupdate.opal_ore": "Opal Ore",
+      "block.rockupdate.copper_ore": "Copper Ore",
+      "block.rockupdate.ruby_ore": "Ruby Ore",
+      "block.rockupdate.ichnusaite_ore": "Ichnusaite Ore",
+      "block.rockupdate.stony_gneiss_block": "Grey Gneiss",
+      "block.rockupdate.zapphire_ore": "Zapphire Ore",
+      "block.rockupdate.cobalt_ore": "Cobalt Ore",
+      "block.rockupdate.gneiss_block": "Gneiss",
+      "block.rockupdate.sulfur_ore": "Sulfur Ore",
+      "block.rockupdate.alleghanyite_ore": "Alleghanyite Ore"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "rockupdate",
+    "modName": "RockUpdate",
+    "version": "1.0.0",
+    "author": "danin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.rockupdate",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

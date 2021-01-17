@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rockupdate:block/gneiss_block"
+    },
+    "facing=east": {
+      "model": "rockupdate:block/gneiss_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rockupdate:block/gneiss_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rockupdate:block/gneiss_block",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "rockupdate:block/gneiss_block",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "rockupdate:block/gneiss_block",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rockupdate:blocks/copper_ore",
+    "up": "rockupdate:blocks/copper_ore",
+    "north": "rockupdate:blocks/copper_ore",
+    "east": "rockupdate:blocks/copper_ore",
+    "south": "rockupdate:blocks/copper_ore",
+    "west": "rockupdate:blocks/copper_ore",
+    "particle": "rockupdate:blocks/copper_ore"
+  }
+}
