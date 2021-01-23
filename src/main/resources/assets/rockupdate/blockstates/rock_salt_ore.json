@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "rockupdate:block/rock_salt_ore"
+    }
+  }
+}

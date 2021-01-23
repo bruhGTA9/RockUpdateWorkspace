@@ -1,14 +1,9 @@
 
 package net.mcreator.rockupdate.item;
 
-import net.minecraftforge.registries.ObjectHolder;
+import org.omg.CORBA.ObjectHolder;
 
-import net.minecraft.item.Rarity;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
-import net.minecraft.item.Item;
-import net.minecraft.block.BlockState;
-
+import net.mcreator.rockupdate.itemgroup.RockUpdateItemGroup;
 import net.mcreator.rockupdate.RockupdateModElements;
 
 @RockupdateModElements.ModElement.Tag
@@ -25,7 +20,7 @@ public class OpalDropItem extends RockupdateModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.BUILDING_BLOCKS).maxStackSize(64).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(RockUpdateItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("opal_drop");
 		}
 

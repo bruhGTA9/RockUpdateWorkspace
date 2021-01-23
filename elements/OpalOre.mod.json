@@ -31,7 +31,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "CUSTOM:RockUpdate"
     },
     "destroyTool": "pickaxe",
     "customDrop": {
@@ -116,9 +116,9 @@
         "value": "CUSTOM:StonyGneissBlock"
       }
     ],
-    "frequencyPerChunks": 3,
-    "frequencyOnChunk": 2,
+    "frequencyPerChunks": 2,
+    "frequencyOnChunk": 3,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 34
+    "maxGenerateHeight": 42
   }
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "rockupdate:block/sulfur_ore",
+  "parent": "rockupdate:block/dioptase_ore",
   "display": {
     "thirdperson": {
       "rotation": [

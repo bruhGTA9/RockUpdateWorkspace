@@ -2,12 +2,12 @@
   "_fv": 13,
   "_type": "block",
   "definition": {
-    "texture": "sulfur",
-    "textureTop": "sulfur",
-    "textureLeft": "sulfur",
-    "textureFront": "sulfur",
-    "textureRight": "sulfur",
-    "textureBack": "sulfur",
+    "texture": "peridot",
+    "textureTop": "peridot",
+    "textureLeft": "peridot",
+    "textureFront": "peridot",
+    "textureRight": "peridot",
+    "textureBack": "peridot",
     "renderType": 11,
     "customModelName": "Single texture",
     "rotationMode": 0,
@@ -24,14 +24,14 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Sulfur Ore",
+    "name": "Peridot Ore",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "CUSTOM:RockUpdate"
     },
     "destroyTool": "pickaxe",
     "customDrop": {
@@ -67,14 +67,14 @@
     },
     "luminance": 0.0,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
-    "spawnParticles": true,
+    "breakHarvestLevel": 2,
+    "spawnParticles": false,
     "particleToSpawn": {
-      "value": "SMOKE_NORMAL"
+      "value": "EXPLOSION_NORMAL"
     },
     "particleSpawningShape": "Spread",
-    "particleSpawningRadious": 0.4000000014901161,
-    "particleAmount": 1,
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
     "hasInventory": false,
     "guiBoundTo": "<NONE>",
     "openGUIOnRightClick": false,
@@ -101,6 +101,15 @@
         "value": "Blocks.STONE"
       },
       {
+        "value": "CUSTOM:GneissBlock"
+      },
+      {
+        "value": "CUSTOM:StonyGneissBlock"
+      },
+      {
+        "value": "CUSTOM:RedGneiss"
+      },
+      {
         "value": "Blocks.STONE#1"
       },
       {
@@ -108,17 +117,11 @@
       },
       {
         "value": "Blocks.STONE#5"
-      },
-      {
-        "value": "CUSTOM:GneissBlock"
-      },
-      {
-        "value": "CUSTOM:StonyGneissBlock"
       }
     ],
     "frequencyPerChunks": 3,
-    "frequencyOnChunk": 11,
+    "frequencyOnChunk": 4,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 29
+    "maxGenerateHeight": 36
   }
 }

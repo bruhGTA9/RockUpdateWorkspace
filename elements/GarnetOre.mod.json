@@ -31,11 +31,11 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "CUSTOM:RockUpdate"
     },
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": ""
+      "value": "CUSTOM:Garnet"
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,
@@ -116,8 +116,8 @@
         "value": "Blocks.STONE#5"
       }
     ],
-    "frequencyPerChunks": 6,
-    "frequencyOnChunk": 5,
+    "frequencyPerChunks": 4,
+    "frequencyOnChunk": 3,
     "minGenerateHeight": 0,
     "maxGenerateHeight": 32
   }

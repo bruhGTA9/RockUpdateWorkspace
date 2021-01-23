@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rockupdate:blocks/jasper",
+    "particle": "rockupdate:blocks/jasper"
+  }
+}

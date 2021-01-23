@@ -38,15 +38,6 @@
       "registry_name": "silver_ore"
     },
     {
-      "name": "SulfurOre",
-      "type": "block",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sulfur_ore"
-    },
-    {
       "name": "CobaltOre",
       "type": "block",
       "sortid": 6,
@@ -59,7 +50,7 @@
       "name": "AmazoniteOre",
       "type": "block",
       "sortid": 7,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "amazonite_ore"
@@ -104,7 +95,7 @@
       "name": "CopperOre",
       "type": "block",
       "sortid": 12,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "copper_ore"
@@ -113,7 +104,7 @@
       "name": "AlleghanyiteOre",
       "type": "block",
       "sortid": 13,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "alleghanyite_ore"
@@ -144,28 +135,267 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "garnet_ore"
+    },
+    {
+      "name": "WhiteStone",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_stone"
+    },
+    {
+      "name": "CorundumOre",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corundum_ore"
+    },
+    {
+      "name": "ActinoliteOre",
+      "type": "block",
+      "sortid": 19,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "actinolite_ore"
+    },
+    {
+      "name": "PyriteOre",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrite_ore"
+    },
+    {
+      "name": "RedGneiss",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_gneiss"
+    },
+    {
+      "name": "RockUpdate",
+      "type": "tab",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rock_update"
+    },
+    {
+      "name": "MarbleBlock",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marble_block"
+    },
+    {
+      "name": "Alleghanyite",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alleghanyite"
+    },
+    {
+      "name": "Garnet",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garnet"
+    },
+    {
+      "name": "Corundum",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corundum"
+    },
+    {
+      "name": "BustamiteOre",
+      "type": "block",
+      "sortid": 27,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bustamite_ore"
+    },
+    {
+      "name": "CelestineOre",
+      "type": "block",
+      "sortid": 28,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "celestine_ore"
+    },
+    {
+      "name": "CordieriteOre",
+      "type": "block",
+      "sortid": 29,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cordierite_ore"
+    },
+    {
+      "name": "CharoiteOre",
+      "type": "block",
+      "sortid": 30,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charoite_ore"
+    },
+    {
+      "name": "CarnelianOre",
+      "type": "block",
+      "sortid": 31,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carnelian_ore"
+    },
+    {
+      "name": "ChrysoberylOre",
+      "type": "block",
+      "sortid": 32,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chrysoberyl_ore"
+    },
+    {
+      "name": "DioptaseOre",
+      "type": "block",
+      "sortid": 33,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dioptase_ore"
+    },
+    {
+      "name": "DolomiteOre",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dolomite_ore"
+    },
+    {
+      "name": "GaspeiteOre",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gaspeite_ore"
+    },
+    {
+      "name": "HeliodorusOre",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heliodorus_ore"
+    },
+    {
+      "name": "JasperOre",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jasper_ore"
+    },
+    {
+      "name": "KunziteOre",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kunzite_ore"
+    },
+    {
+      "name": "PeridotOre",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peridot_ore"
+    },
+    {
+      "name": "RockSaltOre",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rock_salt_ore"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.rockupdate.white_stone": "Alabaster Block",
+      "block.rockupdate.cordierite_ore": "Cordierite Ore",
+      "block.rockupdate.garnet_ore": "Garnet Ore",
+      "item.rockupdate.corundum": "Corundum",
+      "block.rockupdate.amazonite_ore": "Amazonite Ore",
+      "block.rockupdate.carnelian_ore": "Carnelian Ore",
+      "itemGroup.tabrock_update": "Rock Update",
+      "block.rockupdate.corundum_ore": "Corundum Ore",
+      "block.rockupdate.copper_ore": "Copper Ore",
+      "block.rockupdate.bustamite_ore": "Bustamite Ore",
+      "block.rockupdate.kunzite_ore": "Kunzite Ore",
+      "block.rockupdate.gaspeite_ore": "Gaspeite Ore",
+      "block.rockupdate.dolomite_ore": "Dolomite Ore",
+      "block.rockupdate.peridot_ore": "Peridot Ore",
+      "block.rockupdate.heliodorus_ore": "Heliodorus Ore",
+      "block.rockupdate.charoite_ore": "Charoite Ore",
       "item.rockupdate.opal_drop": "Opal",
       "block.rockupdate.mercury_ore": "Mercury Ore",
-      "block.rockupdate.garnet_ore": "Garnet Ore",
-      "block.rockupdate.amazonite_ore": "Amazonite Ore",
+      "block.rockupdate.marble_block": "Marble Block",
       "block.rockupdate.silver_ore": "Silver Ore",
       "item.rockupdate.ruby": "Ruby",
+      "block.rockupdate.celestine_ore": "Celestine Ore",
+      "block.rockupdate.chrysoberyl_ore": "Chrysoberyl Ore",
+      "block.rockupdate.dioptase_ore": "Dioptase Ore",
+      "item.rockupdate.garnet": "Garnet",
       "block.rockupdate.opal_ore": "Opal Ore",
-      "block.rockupdate.copper_ore": "Copper Ore",
+      "item.rockupdate.alleghanyite": "Alleghanyite",
       "block.rockupdate.ruby_ore": "Ruby Ore",
+      "block.rockupdate.jasper_ore": "Jasper Ore",
       "block.rockupdate.ichnusaite_ore": "Ichnusaite Ore",
       "block.rockupdate.stony_gneiss_block": "Grey Gneiss",
-      "block.rockupdate.zapphire_ore": "Zapphire Ore",
+      "block.rockupdate.zapphire_ore": "Sapphire Ore",
+      "block.rockupdate.pyrite_ore": "Pyrite Ore",
       "block.rockupdate.cobalt_ore": "Cobalt Ore",
+      "block.rockupdate.actinolite_ore": "Actinolite Ore",
       "block.rockupdate.gneiss_block": "Gneiss",
-      "block.rockupdate.sulfur_ore": "Sulfur Ore",
-      "block.rockupdate.alleghanyite_ore": "Alleghanyite Ore"
+      "block.rockupdate.alleghanyite_ore": "Alleghanyite Ore",
+      "block.rockupdate.red_gneiss": "Red Gneiss",
+      "block.rockupdate.rock_salt_ore": "Rock Salt Ore"
     }
   },
   "workspaceSettings": {

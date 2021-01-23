@@ -8,7 +8,7 @@
     "name": "Opal",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "CUSTOM:RockUpdate"
     },
     "stackSize": 64,
     "enchantability": 0,
